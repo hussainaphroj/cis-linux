@@ -1,0 +1,6 @@
+---
+- hosts: all
+  roles:
+    #- ansible-os-hardening
+    #- RedHat7-CIS
+    - RHEL8-CIS
